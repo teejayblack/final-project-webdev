@@ -1,0 +1,159 @@
+
+
+body{
+    background-position: center;font-family: Georgia, 'Times New Roman', Times, serif;color: black;
+    background: rgb(161, 242, 238);background-color: ivory;
+}
+.flex-container,.flex-container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-container0{
+    
+    margin: 0 auto;
+    display: flex;
+    justify-content:center;
+    
+    text-align: right;
+}
+.music-0 { 
+
+    flex:1;
+}
+ .music-1{ 
+
+    flex: 1;
+}
+   .music-2 { 
+
+        flex:1;
+    }
+        .music-3 { 
+
+            flex:1;
+        }
+        .music7{
+            flex:1;
+        }
+h1{font-size: 30px;
+    color: rgba(153, 34, 34);
+text-align:center;
+position: center ;
+margin: 0 auto;
+}
+.music-0 {
+    text-decoration:none;
+    
+    border:0px solid black;
+    border-radius: 5px;
+    background-color: none;
+
+
+}
+.music-1{
+    text-decoration:none;
+    color: black;
+    border:0px solid black;
+    border-radius: 5px;
+    background-color:none;
+    padding: 5px;
+
+}
+.music-2{
+    text-decoration:none;
+    color: black;
+    border:0px solid black;
+    border-radius: 5px;
+    background-color:none;
+    padding: 5px;
+
+}
+.music-3{
+    text-decoration:none;color: black;
+    border:0px solid black;
+    border-radius: 5px;
+    background-color:none;
+    padding: 5px;
+
+
+}
+a {
+    text-decoration: none;
+    color: rgb(133, 42, 42);
+    }
+    h1:hover {
+        font-weight: bold;
+        color:black ;
+    }
+    p{ color: rgb(177, 116, 116);
+        font-size: 30px;font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    #main-navbar{
+        background-color: rgba(246, 247, 250, 0);
+        display: flex;
+        border: 0px solid rgb(46, 46, 44);
+        justify-content:space-between;
+        }
+        #main-navbar img{
+            width: 50px;
+            height: 50px;
+            flex: 1;
+            }
+        .nav-links li{
+            
+            display: inline;
+            margin: 9px;
+        }
+        a{
+            text-decoration: none;
+        }
+        a :hover{
+            background-color:none;
+            color:rgb(32, 34, 34);
+        }
+        a :active{
+            color: rgb(78, 116, 85);
+           
+        }
+        footer {
+            text-align: center;
+            padding: 3px;
+            background-color: rgb(12, 12, 12);
+            color: turquoise;
+
+          }
+          .music7{
+              display: flex;
+              justify-content: center ;
+              align-items: baseline;
+          }
+          .section-1{margin-bottom: 20px;
+            margin-top: 40px;
+
+          }
+          #music-0.1 img{
+              width: 200px;
+              height: 100px;
+
+          }
+          #music-2-1{
+              margin-right: 50px;
+          }
+
+          img{
+            width: 200px;
+            height: 200px;}
+            @media(min-width:50px){
+                
+                     
+                }
+                .flex-container,.flex-container2,{width: 100%;
+                    background-color: darkblue;
+            
+            
+                }
+                .colors-1 li{ 
+                    
+
+                }
